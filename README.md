@@ -12,7 +12,7 @@ _RescueLine uses machine learning to classify emergency calls according to the n
 ## Requirements
 1. Python 3 or later
 2. Jupyter Notebook Environment
-3. Numpy, Pandas, Matplotlib, nltk, re 
+3. Numpy, Pandas, Matplotlib, nltk, re, sci-kit learn 
 
 ## How to run locally
 1. Clone the repo, and import it to a notebook environment. 

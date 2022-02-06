@@ -2,8 +2,6 @@
 
 _RescueLine uses machine learning to classify emergency calls according to the nature of assistance required to dispatch the appropriate response team (fire,medic,search/rescue) and save lives._
 
-[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/rohitgarg025/aws-sagemaker-hackathon/blob/main/etl.ipynb>)
-[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/rohitgarg025/aws-sagemaker-hackathon/blob/main/ml.ipynb>)
 # AWS Disaster Response Hackathon
 
 ## Submitted by:

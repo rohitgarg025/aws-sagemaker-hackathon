@@ -1,2 +1,3 @@
-# aws-sagemaker-hackathon
-aws-sagemaker-hackathon
+# AWS Disaster Response Hackathon
+
+

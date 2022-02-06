@@ -3,7 +3,7 @@
 _RescueLine uses machine learning to classify emergency calls according to the nature of assistance required to dispatch the appropriate response team (fire,medic,search/rescue) and save lives._
 
 [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/rohitgarg025/aws-sagemaker-hackathon/blob/main/etl.ipynb>)
-
+[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/rohitgarg025/aws-sagemaker-hackathon/blob/main/ml.ipynb>)
 # AWS Disaster Response Hackathon
 
 ## Submitted by:
@@ -16,7 +16,7 @@ _RescueLine uses machine learning to classify emergency calls according to the n
 2. Jupyter Notebook Environment
 3. Numpy, Pandas, Matplotlib, nltk, re 
 
-## How to run
+## How to run locally
 1. Clone the repo, and import it to a notebook environment. 
 2. Run ```etl.ipynb```. This will extract, transfer, and load the datasets and create ```disaster.csv```. 
 3. Run ```ml.ipynb```. This file will perform multilabel text classification on the input text once the model has been trained on ```disaster.csv``` created in step 2. 
